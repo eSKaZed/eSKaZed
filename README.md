@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eSKaZed
-- 👀 I’m video interested in game development
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning godot engine and developping a 3D multiplayer first person shooter
 - 💞️ I’m looking to collaborate on small game projects
 
